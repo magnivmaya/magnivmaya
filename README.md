@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on a scanner project<br>- 🌱 I’m currently learning JavaScript<br>- 👯 I’m looking to collaborate on Cyber Security project<br>- 💬 Ask me about Editing and Programming<br>- 📫 How to reach me: nosomovmaya@gmail.com<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: Everything I know is from self taught</p>
+<p align="left">- 🔭 I’m currently working on a scanner project<br>- 🌱 I’m currently learning JavaScript<br>- 👯 I’m looking to collaborate on Cyber Security project<br>- 💬 Ask me about Editing and Programming<br>- 📫 How to reach me: maya.nisimov2@gmail.com<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: Everything I know is from self taught</p>
 
 ###
 
