@@ -2,15 +2,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magnivmaya/magnivmaya/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magnivmaya/magnivmaya/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/magnivmaya/magnivmaya/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="left">About me:</h2>
 
 ###
 
@@ -18,11 +10,11 @@
 
 ###
 
-<p align="left">📚 I'm currently learning JavaScript<br>🎯 Goals: Create a huge projectCyber Security related<br>🎲 Fun fact: Everything I know is from self-study</p>
+<p align="left">- 🔭 I’m currently working on a scanner project<br>- 🌱 I’m currently learning JavaScript<br>- 👯 I’m looking to collaborate on Cyber Security project<br>- 💬 Ask me about Editing and Programming<br>- 📫 How to reach me: nosomovmaya@gmail.com<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: Everything I know is from self taught</p>
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="center">⇣  code with ↴</h2>
 
 ###
 
@@ -38,7 +30,7 @@
 
 ###
 
-<h2 align="center">I edit with</h2>
+<h2 align="center">⇣  edit with ↴</h2>
 
 ###
 
@@ -59,7 +51,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=@maya.nisimov&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=@maya.nisimov&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -70,22 +62,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/magnivmaya/magnivmaya/output/snake.svg" alt="Snake animation" />
-
-###
-
-<!--
-**magnivmaya/magnivmaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
