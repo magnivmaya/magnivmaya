@@ -10,11 +10,22 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on a scanner project<br>- 🌱 I’m currently learning JavaScript<br>- 👯 I’m looking to collaborate on Cyber Security project<br>- 💬 Ask me about Editing and Programming<br>- 📫 How to reach me: maya.nisimov2@gmail.com<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: Everything I know is from self taught</p>
+<p align="left">» 🔭 I’m currently working on a scanner project<br>» 🌱 I’m currently learning JavaScript<br>» 👯 I’m looking to collaborate on Cyber Security project<br>» 💬 Ask me about Editing and Programming<br>» 📫 How to reach me: nosomovmaya@gmail.com<br>» 😄 Pronouns: She/Her<br>» ⚡ Fun fact: Everything I know is from self taught</p>
 
 ###
 
-<h2 align="center">⇣  code with ↴</h2>
+<div align="center">
+  <a href="https://x.com/envenya" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="maya459110" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="center">»  code with ↴</h2>
 
 ###
 
@@ -30,7 +41,7 @@
 
 ###
 
-<h2 align="center">⇣  edit with ↴</h2>
+<h2 align="center">»  edit with ↴</h2>
 
 ###
 
@@ -51,7 +62,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=@maya.nisimov&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
