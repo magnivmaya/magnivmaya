@@ -138,4 +138,8 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://count.getloli.com/@:magnivmaya?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
+###
