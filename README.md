@@ -133,13 +133,4 @@
   <img src="https://streak-stats.demolab.com?user=magnivmaya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=magnivmaya&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-<div align="center">
-  <img src="https://count.getloli.com/@:magnivmaya?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
 
-###
-<div align="center">
-  <img src="https://count.getloli.com/@:magnivmaya?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
