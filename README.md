@@ -1,3 +1,6 @@
+
+<img width="3360" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/d693acdb-a9be-466d-85a5-30a23bfbd6a0" />
+
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
